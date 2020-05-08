@@ -232,8 +232,6 @@ textarea {
   .nav__item--mobile {
     padding: 0;
     margin-bottom: 32px; }
-  .nav__item:last-child {
-    margin-bottom: 48px; }
   .nav__item--active {
     background: rgba(255, 255, 255, 0.1); }
 
