@@ -579,7 +579,9 @@ textarea {
         -ms-flex-direction: column;
             flex-direction: column; }
     .contacts__text:last-child {
-      margin-bottom: 32px; } }
+      margin-bottom: 32px; }
+    .contacts__items {
+      width: 100%; } }
 
 .footer {
   display: -webkit-box;
